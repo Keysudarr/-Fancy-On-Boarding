@@ -1,1 +1,1 @@
-# -Fancy-On-Boarding
+# Fancy-On-Boarding
